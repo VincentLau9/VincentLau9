@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VincentLau9
-- 👀 I’m interested in IT
+- 👀 
 - 🌱 I’m currently learning sofware engineering 
 - �
 
